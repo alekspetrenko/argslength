@@ -1,6 +1,8 @@
 
 public class string {
-
+	int storage(String s) {
+	    return s.length();
+	}
 
 
 public static void main(String[] args) {
